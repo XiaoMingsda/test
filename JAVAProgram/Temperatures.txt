@@ -1,0 +1,13 @@
+Milan 18
+Rome 22
+Beijing 13
+Shanghai 16
+Paris 15
+New York 16
+San Francisco 16
+London 15
+Berlin 17
+Stockholm 12
+Madrid 21
+Rio de Janeiro 20
+Sao Paulo 22
